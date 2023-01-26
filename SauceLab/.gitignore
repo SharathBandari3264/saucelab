@@ -1,0 +1,14 @@
+/TestResults/
+/target/
+/downloads/
+
+/test-output/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.xlsx
+*.xml
+*.html
+*.xml_write
